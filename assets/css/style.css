@@ -7,7 +7,7 @@
 
 @media (min-width:768px) {
   .header-blue {
-    padding-bottom:120px;
+    padding-bottom:11px;
   }
 }
 
@@ -191,21 +191,6 @@
   height:auto;
 }
 
-.header-blue .iphone-mockup .screen {
-  position:absolute;
-  width:88%;
-  height:77%;
-  top:12%;
-  border-radius:2px;
-  left:6%;
-  border:1px solid #444;
-  background-color:#aaa;
-  overflow:hidden;
-  background:url(../../assets/img/screen-content-iphone-6.jpg);
-  background-size:cover;
-  background-position:center;
-}
-
 .header-blue .iphone-mockup .screen:before {
   content:'';
   background-color:#fff;
@@ -217,4 +202,3 @@
   transform:rotate(-19deg);
   opacity:0.2;
 }
-
